@@ -11,6 +11,11 @@ int main(){
 	fastIO();
 
 	cout << "Hey/hi/hola/namaste" << "\n";
+	cout << "what's your name? << endl;
+	string s;
+	cin >> s ;
+	
+	cout << "hey " << s << endl; 
 
 	return 0;
 }
